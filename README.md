@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220
 
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
+A user-controlled ship for a space-shooter game. With Asteroids that explode into smaller asteroids, an enemy ship that moves in a sine wave, and a method for player death, as well as a small invincibility window when restarting. Oh, and a small song to test out Unity's XM playback. Note to self, it works, but it doesn't use any loop points you set (at least in FastTracker). Created in Unity.
 
 ## Implementation
 
@@ -13,10 +13,10 @@ Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extens
 The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet)
 
 ## References
-None
+Nathan Mishler.
 
 ## Future Development
-None
+Score, lives, game-start and game-end screens. In-game menu. Pizzazz. A Re-write in C# if I have the time.
 
 ## Created by
-Nathan Mishler
+Levi Coffing, Master of Reality, Local Nintendo Wizard, Justified and Ancient.
