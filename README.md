@@ -1,4 +1,4 @@
-# Exercise-02b-Bullets-And-Asteroids
+# Exercise-02c-Explosions-and-Enemy
 
 Exercise for MSCH-C220
 
